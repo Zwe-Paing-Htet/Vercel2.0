@@ -1,0 +1,12 @@
+git init
+
+git remote add origin https://github.com/Zwe-Paing-Htet/Vercel.git
+
+git add .
+
+git commit -m "first commit"
+
+git push -u origin master
+
+git add . 
+
